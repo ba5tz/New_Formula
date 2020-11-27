@@ -1,2 +1,7 @@
-# New_Formula
-List Formula Baru untuk dibuat dalam User Defined Function (UDF)
+# FORMULA EXCEL BARU
+List Formula Baru untuk dibuat kedalam User Defined Function (UDF)
+
+### List FORMULA
+* [IFS]
+* [XLOOKUP]
+* [FORMULATEXT]
