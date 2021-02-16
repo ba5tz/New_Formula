@@ -12,9 +12,10 @@ Secara umum, sintaks fungsi IFS adalah:
 
 ## Script
 Module1.Bas
-```
+```vb
 Function IFS(ParamArray arguments() As Variant)
 REM Auth : ExcelNoob.com
+REM Support : Andi Setiadi | YouTube.com/andisetiadii
 Dim j As Integer: j = UBound(arguments)
 Dim c As Integer: c = 1
 Dim k As Integer: k = (j + 1) / 2
